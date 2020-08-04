@@ -339,7 +339,7 @@ button:focus,
  *-------------------*/
 
 .jumbotron {
-    background            : url("../img/nuaa.jpg");
+    background            : url("../img/nuaa-bg.jpg");
     background-size       : cover;
     padding               : 0;
     margin                : 0;
