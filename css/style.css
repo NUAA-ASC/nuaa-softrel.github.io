@@ -121,7 +121,7 @@ p.lead {
 ul {
     margin     : 0;
     padding    : 0;
-    list-style : square;
+    list-style : none;
     }
 
 /*Button Style*/
