@@ -213,7 +213,8 @@ button:focus,
 .navbar-brand {
     padding : 0;
     height  : auto;
-    margin  : 5px 0 !important;
+    /* margin  : 5px 0 !important; */
+    padding     : 15px 0 15px 30px;
     }
 
 @media (max-width : 768px) {
@@ -339,7 +340,7 @@ button:focus,
  *-------------------*/
 
 .jumbotron {
-    background            : url("../img/img-jumbotron-bg.jpg");
+    background            : url("../img/nuaa-bg.jpg");
     background-size       : cover;
     padding               : 0;
     margin                : 0;
