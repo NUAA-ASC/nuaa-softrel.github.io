@@ -213,7 +213,8 @@ button:focus,
 .navbar-brand {
     padding : 0;
     height  : auto;
-    margin  : 5px 0 !important;
+    /* margin  : 5px 0 !important; */
+    padding     : 15px 0 15px 30px;
     }
 
 @media (max-width : 768px) {
